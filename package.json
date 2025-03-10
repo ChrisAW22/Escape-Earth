@@ -1,10 +1,8 @@
 {
     "name": "escape-from-earth",
     "version": "1.0.0",
-    "scripts": {
-        "start": "node index.mjs"
-    },
-    "dependencies": {
-        "node-fetch": "^3.3.1"
-    }
+    "type": "module",   
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
